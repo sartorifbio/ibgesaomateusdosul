@@ -1,0 +1,21 @@
+body{
+    background-color:#E8F0F2;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #280298; 
+}
+
+h1{
+    font-family: sans,sans-serif;
+    color: #280298;
+}
+
+p{
+    font: 40px;
+    text-align: justify;
+}
+
+.margin{
+    padding-bottom: 40px;
+}
+
+
