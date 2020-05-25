@@ -1,5 +1,9 @@
+nav{
+    margin-bottom: 60px;
+}
+
 body{
-    background-color: #5E5BFF;
+    background-color: #0A0A6F;
 }
 
 p{
@@ -17,4 +21,8 @@ h1{
 
 .recuo{
     text-indent: 4em;
+}
+
+.marg_equip{
+    margin-top: 30px;
 }
